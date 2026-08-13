@@ -1,0 +1,215 @@
+{
+  "generatedFrom": "research/official-archive/download-manifest.json",
+  "mediaPolicy": "Photographs recovered from the official Fairhaven Stay website archive. Commercial web-use rights and underlying photographer/release documentation are not documented; publication review is pending. No Instagram creator media or generated imagery is used.",
+  "assets": [
+    {
+      "id": "hero-sunset",
+      "assetPath": "/media/official/hero-sunset.webp",
+      "sourceArchivePath": "research/official-archive/originals/198-ac64a9a8-d425-4a2d-a165-e356a854543f.jpg",
+      "sourcePages": [
+        "chalet.html",
+        "home.html",
+        "hunter.html",
+        "mountain.html",
+        "pond.html",
+        "properties.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "3e7d97a8b475aa76498fcae97a146829d7539495b506e2bf051803fb77d05147",
+      "optimizedSha256": "031a84276adaf4a62ba73af697f5a24a5744df044bb8a47709e4eaf2577993e0",
+      "width": 2400,
+      "height": 1350,
+      "bytes": 628468,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "pond-boardwalk",
+      "assetPath": "/media/official/pond-boardwalk.webp",
+      "sourceArchivePath": "research/official-archive/originals/017-0deeacd9-ec33-4c3f-a0ea-3cbcf04a01fa.jpg",
+      "sourcePages": [
+        "pond.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "5e68b7c2595cd0bead7f2f3f6cc7c09c90687efded4e969316ed67cc9bfddc80",
+      "optimizedSha256": "5db5825740d37f95301cb9d4cf1633e281b4e146dfe2eb4e5a12b98cfbe41efe",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 871186,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "pond-fireplace",
+      "assetPath": "/media/official/pond-fireplace.webp",
+      "sourceArchivePath": "research/official-archive/originals/056-2fba1164-ea6b-4772-8929-e1dd7f3a70a7.jpg",
+      "sourcePages": [
+        "pond.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "34f86ec6fd1c4759443ab530b66572261f1cc4d284aefb413de60ed7a5bc583f",
+      "optimizedSha256": "83030125e44d31fe4d2d957823fba9348cfe7f0cce0a51499208e7a062f70a3a",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 442902,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "chalet-living",
+      "assetPath": "/media/official/chalet-living.webp",
+      "sourceArchivePath": "research/official-archive/originals/271-f63b6b4e-ac24-4e20-9fac-c0bd12734bfd.png",
+      "sourcePages": [
+        "chalet.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "db504464ab17b82e430b377d515e7bf74c72a045c61f9480b1617694f8b065eb",
+      "optimizedSha256": "22edd4e9962e6ca67df5450ade636000d58bfd857b909a743ee6e26de90153e8",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 248522,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "hunter-sauna",
+      "assetPath": "/media/official/hunter-sauna.webp",
+      "sourceArchivePath": "research/official-archive/originals/004-0226b230-921e-478c-b823-061c513a37c0.png",
+      "sourcePages": [
+        "hunter.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "8b66ed4e0280e2126fe7cb92dfa953b41bba98d0251c8c69c34932efd10f3e4e",
+      "optimizedSha256": "6964d91c5cbdf0e2b329c31da9140ab0771beac475ccbcbf23a9a805c809069b",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 524318,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "hunter-aframe",
+      "assetPath": "/media/official/hunter-aframe.webp",
+      "sourceArchivePath": "research/official-archive/originals/032-15c1f7fc-e6f3-4858-9a6a-1cee3edc4ffc.jpg",
+      "sourcePages": [
+        "hunter.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "e9c140652d3b45a3eb236814a6b77837e2ede939392a1625100bebc5011ac1a7",
+      "optimizedSha256": "b27b3135b8b9cbd364bc170069cb65cd50474a71383ee18c41e87273dfba7266",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 308684,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "hunter-aerial",
+      "assetPath": "/media/official/hunter-aerial.webp",
+      "sourceArchivePath": "research/official-archive/originals/148-8223c954-84d1-44ea-8b26-5561df355c3f.png",
+      "sourcePages": [
+        "hunter.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "6d348a20cf519a4611f399c5d3338053882884d6408c13988ff3849588a0f3bc",
+      "optimizedSha256": "a81916f5b55d7d422090dae0ba2d04c41182521fbdb915abd544cd8404f8f0d6",
+      "width": 1800,
+      "height": 1350,
+      "bytes": 721990,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "hunter-hottub",
+      "assetPath": "/media/official/hunter-hottub.webp",
+      "sourceArchivePath": "research/official-archive/originals/207-b712d604-0d97-44ca-972d-d5486f162dd0.jpg",
+      "sourcePages": [
+        "hunter.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "89c61361875211b7599a4183d69c058ba643043ebec3c06ce03788e15fd89b29",
+      "optimizedSha256": "dfdf486b494401dd47359cee0d0cee912602962b5593d52e9984ad936501a0d0",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 598726,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "hunter-deck",
+      "assetPath": "/media/official/hunter-deck.webp",
+      "sourceArchivePath": "research/official-archive/originals/240-d702e93f-c982-4688-a95c-36a03011e7c3.png",
+      "sourcePages": [
+        "hunter.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "7245141adf424f34e549fbfde170548ffe29524d1a4629aa6148f556caf23ca2",
+      "optimizedSha256": "22372f879d2aab8e632effc15d2a16578dd663d759ee1d47a77b0ac73ccdfc48",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 456852,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "pond-kitchen",
+      "assetPath": "/media/official/pond-kitchen.webp",
+      "sourceArchivePath": "research/official-archive/originals/140-7c2967eb-a713-4534-8b11-4127ec993910.jpg",
+      "sourcePages": [
+        "pond.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "dde8a8d7f85a0345354ce9ca93ef75b7a70eeb3592e6cbf8233000dbb59b1b0a",
+      "optimizedSha256": "6b3f665c7168cd30b6fcf992a8e1c3cf851200c8d61303063568e84da3eeab5c",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 215688,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "pond-firepit-night",
+      "assetPath": "/media/official/pond-firepit-night.webp",
+      "sourceArchivePath": "research/official-archive/originals/232-cc716d2f-1479-4f16-8829-82f50b9e6e68.jpg",
+      "sourcePages": [
+        "pond.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "f2695e76a378ae6e98eb7e13757264037fff74453409b884bd1e753da58d45b0",
+      "optimizedSha256": "11ad1ab48e4f6a75c54deb0567d855acbca987513e2c92242ef7c927eaccd9fa",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 648058,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    },
+    {
+      "id": "pond-hammock",
+      "assetPath": "/media/official/pond-hammock.webp",
+      "sourceArchivePath": "research/official-archive/originals/265-f09095de-3cfb-4c61-ab59-dca286b1a31e.jpg",
+      "sourcePages": [
+        "pond.html"
+      ],
+      "canonicalSource": "https://www.fairhavenstay.com/",
+      "archiveSnapshot": "20251018073149",
+      "originalSha256": "fa75e31aedab28879f47b95fad799f3495c8ad6107ff14347ece59941c6eace3",
+      "optimizedSha256": "04787946db48f3798709ce527a526c4c4841d026be74d171ec06c86f5a52d93b",
+      "width": 1800,
+      "height": 1200,
+      "bytes": 926584,
+      "rightsStatus": "publication review pending; commercial web-use rights not documented",
+      "attribution": "Fairhaven Stay"
+    }
+  ]
+}
